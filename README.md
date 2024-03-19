@@ -1,4 +1,13 @@
-### Hi there 👋
+# README.md
+## this would be a good place to tell you about what I do
+this could include 
+* a concise history of the projects I did
+* technologies I like or want to learn more about
+* a log of personal development
+
+## Theme: Test Automation
+one could mention things here and pin some projects 👇
+
 
 <!--
 **globalworming/globalworming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
