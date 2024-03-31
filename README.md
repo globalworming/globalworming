@@ -7,6 +7,7 @@ this could include
 
 ## Theme: Test Automation
 one could mention things here and pin some projects 👇
+![image](https://github.com/globalworming/globalworming/assets/2108984/31e63559-88d4-493d-b3ec-fbedf6d22c22)
 
 
 <!--
